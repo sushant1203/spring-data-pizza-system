@@ -13,7 +13,7 @@ Developed as a university assignment, this project was awarded an **outstanding 
 * **Complex Relational Mapping:** Implements JPA annotations to map Java objects to a MySQL database schema, covering relationships like Many-to-Many (`Pizzeria`-`Pizza`) and One-to-Many (`Pizza`-`Ingredient`).
 * **Custom Spring Data Queries:** Features custom query methods within `CrudRepository` interfaces (e.g., `findByDescription`) to perform targeted database lookups.
 * **Data Persistence Control:** Manages cascading operations (`CascadeType.PERSIST`, `CascadeType.REMOVE`) and fetch strategies (`FetchType.EAGER`) for efficient data handling.
-* **Database Seeding:** Utilizes `CommandLineRunner` to automatically populate the database with initial data on application startup.
+* **Database Seeding:** Utilises `CommandLineRunner` to automatically populate the database with initial data on application startup.
 * **Web Interface for Data Management:** A simple web layer built with Spring MVC and JSP allows for viewing and deleting records from the database via URL requests.
 * **SQL Logging:** Configured to print all executed SQL statements to the console for easy debugging and analysis.
 
@@ -94,6 +94,6 @@ You can also delete records directly via URL. For example:
 
 ## 📄 License
 
-* © [2025] [IBM] [Sushant Jasra Kumar] All Rights Reserved.
+* © [2025] [Sushant Jasra Kumar] All Rights Reserved.
 
 ---
