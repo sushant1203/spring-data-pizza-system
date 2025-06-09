@@ -91,7 +91,7 @@ You can also delete records directly via URL. For example:
 ---
 
 ## 📄 Copyright and Licensing
-Copyright (c) 2025 [IBM] [Sushant Jasra Kumar]
+Copyright (c) 2025 [Sushant Jasra Kumar]
 
 The code for all projects in this portfolio is licensed under the **[MIT License](https://github.com/sushant1203/sushant1203/blob/main/LICENSE)**.
 
