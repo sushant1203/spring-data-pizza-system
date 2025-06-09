@@ -4,8 +4,6 @@
 
 This project is a comprehensive Java web application that demonstrates the power of **Spring Data JPA** for managing a complex relational database. The system models pizzerias, pizzas, and their ingredients, showcasing advanced data persistence techniques and object-relational mapping (ORM).
 
-Developed as a university assignment, this project was awarded an **outstanding score of 98/100**, highlighting its robust backend architecture, correct implementation of data relationships, and adherence to modern software development practices.
-
 ---
 
 ## ✨ Key Features
@@ -92,8 +90,11 @@ You can also delete records directly via URL. For example:
 
 ---
 
-## 📄 License
+## 📄 Copyright and Licensing
+Copyright (c) 2025 [IBM] [Sushant Jasra Kumar]
 
-* © [2025] [Sushant Jasra Kumar] All Rights Reserved.
+The code for all projects in this portfolio is licensed under the **[MIT License](https://github.com/sushant1203/sushant1203/blob/main/LICENSE)**.
+
+All non-code assets, including PDF documents, images, and visual designs, are dedicated to the public domain under the **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://github.com/sushant1203/sushant1203/blob/main/LICENSE2)**.
 
 ---
